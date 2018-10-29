@@ -1,0 +1,7 @@
+C:\Users\Andr4\source\repos\Network\Network\bin\Debug\Network.exe.config
+C:\Users\Andr4\source\repos\Network\Network\bin\Debug\Network.exe
+C:\Users\Andr4\source\repos\Network\Network\bin\Debug\Network.pdb
+C:\Users\Andr4\source\repos\Network\Network\obj\Debug\Network.csprojAssemblyReference.cache
+C:\Users\Andr4\source\repos\Network\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\source\repos\Network\Network\obj\Debug\Network.exe
+C:\Users\Andr4\source\repos\Network\Network\obj\Debug\Network.pdb
