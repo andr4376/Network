@@ -1,0 +1,7 @@
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\bin\Debug\TCP Server.exe.config
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\bin\Debug\TCP Server.exe
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\bin\Debug\TCP Server.pdb
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\obj\Debug\TCP Server.csprojAssemblyReference.cache
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\obj\Debug\TCP Server.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\obj\Debug\TCP Server.exe
+C:\Users\Andr4\source\repos\TCP Server\TCP Server\obj\Debug\TCP Server.pdb

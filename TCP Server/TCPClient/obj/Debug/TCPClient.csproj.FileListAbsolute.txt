@@ -1,0 +1,7 @@
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Andr4\source\repos\TCP Server\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
