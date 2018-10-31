@@ -1,0 +1,7 @@
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\bin\Debug\serverThreadingDay3.exe.config
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\bin\Debug\serverThreadingDay3.exe
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\bin\Debug\serverThreadingDay3.pdb
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\obj\Debug\serverThreadingDay3.csprojAssemblyReference.cache
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\obj\Debug\serverThreadingDay3.csproj.CoreCompileInputs.cache
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\obj\Debug\serverThreadingDay3.exe
+C:\Users\Andr4\source\repos\serverThreadingDay3\serverThreadingDay3\obj\Debug\serverThreadingDay3.pdb
