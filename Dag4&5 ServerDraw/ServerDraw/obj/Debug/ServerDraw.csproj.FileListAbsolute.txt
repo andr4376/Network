@@ -1,0 +1,10 @@
+D:\Code projects\ServerDraw\ServerDraw\bin\Debug\ServerDraw.exe.config
+D:\Code projects\ServerDraw\ServerDraw\bin\Debug\ServerDraw.exe
+D:\Code projects\ServerDraw\ServerDraw\bin\Debug\ServerDraw.pdb
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.csprojAssemblyReference.cache
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.Properties.Resources.resources
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.csproj.GenerateResource.cache
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.csproj.CoreCompileInputs.cache
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.exe
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.pdb
+D:\Code projects\ServerDraw\ServerDraw\obj\Debug\ServerDraw.ServerForm.resources

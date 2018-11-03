@@ -1,0 +1,20 @@
+D:\Code projects\ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.exe.config
+D:\Code projects\ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.exe
+D:\Code projects\ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.pdb
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csprojAssemblyReference.cache
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.Properties.Resources.resources
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.ViewForm.resources
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csproj.GenerateResource.cache
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csproj.CoreCompileInputs.cache
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.exe
+D:\Code projects\ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.pdb
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.exe.config
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.exe
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\bin\Debug\ClientViewDraw.pdb
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csprojAssemblyReference.cache
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.Properties.Resources.resources
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.ViewForm.resources
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csproj.GenerateResource.cache
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.csproj.CoreCompileInputs.cache
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.exe
+D:\Code projects\Network\Dag4&5 ServerDraw\ClientViewDraw\obj\Debug\ClientViewDraw.pdb
